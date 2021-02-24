@@ -1,6 +1,6 @@
 ## Welcome to OpenDALIConfigurator
 
-This is the official website for **OpenDALIConfigurator** - an open source DALI configuration tool for DALI control gear and control device. OpenDALIConfigurator is designed to work with most of the popular DALI products with master controller features such as [Tridonic DALI USB](http://www.tridonic.com/com/en/products/2622.asp).
+This is the official website for **OpenDALIConfigurator** - an open source DALI configuration tool for DALI control gear and control device. OpenDALIConfigurator is designed to work with most of the popular DALI products with master controller features such as [Tridonic DALI USB](https://www.tridonic.com/com/en/products/dali-usb.asp).
 
 ### About DALI
 
