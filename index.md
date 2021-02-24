@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## Welcome to OpenDALIConfigurator
 
-You can use the [editor on GitHub](https://github.com/Meijay/OpenDALIConfigurator/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This is the official website for **OpenDALIConfigurator** - an open source DALI configuration tool for DALI control gear and control device. OpenDALIConfigurator is designed to work with most of the popular DALI products with master controller features such as [Tridonic DALI USB](http://www.tridonic.com/com/en/products/2622.asp).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About DALI
 
-### Markdown
+**DALI** is a lighting control standard and stands for Digital Addressable Lighting Interface. The [DALI Alliance](https://www.dali-alliance.org/alliance/) (also known as the Digital Illumination Interface Alliance, or DiiA) is the global industry organization for DALI lighting control. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### IEC 62386
 
-```markdown
-Syntax highlighted code block
+**IEC 62386**, the international standard for the Digital Addressable Lighting Interface, is published in multiple Parts by the International Electrotechnical Commission (IEC). Published Parts of IEC 62386 can be purchased from the [IEC website](https://webstore.iec.ch/searchform&q=62386#).
 
-# Header 1
-## Header 2
-### Header 3
+### What OpenDALIConfigurator would provide?
 
-- Bulleted
-- List
+OpenDALIConfigurator will provde the following features and be implemented in a standard way to configure and commission the DALI systems.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Meijay/OpenDALIConfigurator/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+* Device discovery and addressing
+* Device grouping and scenes manangement
+* Device parameters configuration and monitoring
+* Direct operation user interface
+* DALI bus protocol analyser
+* Open plugin interface for 3rd party function modules
+* Built-in scripting engine for user defined scripts
+* DALI bus server back-end to support multiple clients
